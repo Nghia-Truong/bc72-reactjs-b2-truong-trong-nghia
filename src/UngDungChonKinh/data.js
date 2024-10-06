@@ -1,4 +1,4 @@
-[
+export let glassesArr = [
     {
         "id": 1,
         "price": 30,
